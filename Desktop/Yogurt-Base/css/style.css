@@ -67,12 +67,12 @@ ul li.active a{
 display: flex;
 	color:red;
 	font-style: italic;
-	margin-left: 900px;
+	margin-left: 800px;
 	margin-top: 50px;
 }
 
 .ing{
-	margin-right: 900px;
+	margin-right: 800px;
 }
 
 .kid{
